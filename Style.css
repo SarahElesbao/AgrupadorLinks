@@ -1,10 +1,10 @@
 .btn-primary {
     font-size: 18px;
-   --bs-btn-bg: #8e5febab !important;
-   --bs-btn-border-color: #530fdafd !important;
+   --bs-btn-bg: #66132e !important;
+   --bs-btn-border-color: #B52E5C !important;
    --bs-btn-border-radius: 5px;
-   --bs-btn-hover-bg: rgb(150, 206, 77);
-   --bs-btn-hover-border-color:rgb(150, 206, 77);
+   --bs-btn-hover-bg: rgb(181, 46, 92);
+   --bs-btn-hover-border-color:rgb(181, 46, 92);;
    transition: 1s ease all;
   }
   
@@ -22,6 +22,6 @@
 
   #container{
     background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,120,1) 42%, rgba(0,212,255,1) 100%);
+    background: linear-gradient(90deg, rgb(102, 9, 40) 0%, rgb(167, 66, 77)50%, rgb(102, 9, 40) 100%);
     background-size: cover;
   }
